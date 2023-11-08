@@ -2173,7 +2173,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/pic01.jpg");
+		background: #a8b0b4;
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
@@ -2184,14 +2184,14 @@ input, select, textarea {
 	}
 
 			#banner header h2 {
-				color: #fff;
+				color: #252122;
 				font-weight: 700;
 				font-size: 2.5em;
 				margin: 0 0 0.65em 0;
 			}
 
 			#banner header p {
-				color: #fff;
+				color: #252122;
 				padding: 0;
 				font-style: normal;
 				margin: 0;
